@@ -16,10 +16,8 @@ Interests: Backend architecture, Full-stack development, API engineering, and Da
 
 ### 🌐 Let's Connect:
 
-📬 Reach me: saivarun0713@gmail.com
-🌐 LinkedIn: linkedin.com/in/varun-sai-6379aa242/
-
----
+📬 Reach me: [saivarun0713@gmail.com](mailto:saivarun0713@gmail.com)  <br>
+🌐 LinkedIn: [https://www.linkedin.com/in/varun-sai-6379aa242/](https://www.linkedin.com/in/varun-sai-6379aa242/)
 
 ### 💻 Tech Stack:
 
